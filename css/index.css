@@ -24,6 +24,10 @@ p{
     background: #333;
     color: white;
     padding: 2rem 0;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
 }
 
 .header a{
@@ -56,6 +60,11 @@ p{
 }
 .navigation ul li a:hover{
     background: #4a4a4a;
+}
+
+.main{
+    padding-top: 12rem;
+    
 }
 
 .footer{
